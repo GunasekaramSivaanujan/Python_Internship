@@ -1,0 +1,1 @@
+Accuracy measures the proportion of correct predictions.

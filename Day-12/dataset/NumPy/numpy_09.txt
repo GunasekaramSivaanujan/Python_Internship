@@ -1,0 +1,1 @@
+NumPy provides functions to calculate mean and median.

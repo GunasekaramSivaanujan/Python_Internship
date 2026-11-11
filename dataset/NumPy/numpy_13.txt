@@ -1,0 +1,1 @@
+NumPy can calculate standard deviation.

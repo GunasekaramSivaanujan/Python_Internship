@@ -1,0 +1,1 @@
+Convolutional Neural Networks are commonly used for image recognition.

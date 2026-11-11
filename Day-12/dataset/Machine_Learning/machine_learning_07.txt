@@ -1,0 +1,1 @@
+Regression predicts continuous numerical values.

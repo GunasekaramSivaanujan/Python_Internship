@@ -1,0 +1,1 @@
+The dropna function can remove missing values.

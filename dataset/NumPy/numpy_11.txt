@@ -1,0 +1,1 @@
+NumPy slicing selects specific elements from arrays.

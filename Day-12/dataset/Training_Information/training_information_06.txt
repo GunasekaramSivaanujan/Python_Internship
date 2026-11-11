@@ -1,0 +1,1 @@
+Employees should complete assigned training activities.

@@ -1,0 +1,1 @@
+Decision trees are used for classification and regression.

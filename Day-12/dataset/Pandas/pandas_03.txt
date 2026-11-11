@@ -1,0 +1,1 @@
+A DataFrame stores information in rows and columns.

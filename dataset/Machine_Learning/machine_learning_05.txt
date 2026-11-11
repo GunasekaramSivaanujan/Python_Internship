@@ -1,0 +1,1 @@
+Reinforcement learning uses rewards and penalties.

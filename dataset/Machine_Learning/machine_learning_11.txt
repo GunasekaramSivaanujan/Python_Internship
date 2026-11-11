@@ -1,0 +1,1 @@
+Underfitting occurs when a model fails to learn important patterns.

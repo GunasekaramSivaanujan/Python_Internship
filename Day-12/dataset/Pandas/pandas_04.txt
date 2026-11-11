@@ -1,0 +1,1 @@
+A Series represents a one-dimensional labelled data structure.

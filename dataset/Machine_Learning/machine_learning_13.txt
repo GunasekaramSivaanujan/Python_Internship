@@ -1,0 +1,1 @@
+Random forests combine multiple decision trees.

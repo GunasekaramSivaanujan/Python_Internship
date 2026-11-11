@@ -1,0 +1,1 @@
+NumPy arrays usually perform numerical operations faster than Python lists.

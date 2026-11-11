@@ -1,0 +1,1 @@
+Python tuples are ordered collections that cannot be modified.

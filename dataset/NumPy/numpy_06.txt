@@ -1,0 +1,1 @@
+NumPy provides functions for matrix multiplication.

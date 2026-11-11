@@ -1,0 +1,1 @@
+NumPy broadcasting allows operations between compatible arrays.

@@ -1,0 +1,1 @@
+Python variables store values such as integers, strings and Boolean data.
