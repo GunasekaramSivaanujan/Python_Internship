@@ -1,0 +1,8 @@
+HEALTHCARE DATA QUALITY REPORT
+--------------------------------
+Total Records: 10
+Total Columns: 7
+Missing Values: 2
+Duplicate Records: 1
+Invalid Age Records: 1
+Incorrect Age Types: 1
