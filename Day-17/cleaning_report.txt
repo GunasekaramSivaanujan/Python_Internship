@@ -1,0 +1,7 @@
+PATIENT DATA CLEANING REPORT
+-----------------------------
+Total Patient Records: 500
+Missing Values Before Cleaning: 199
+Missing Values After Cleaning: 0
+Cleaning Method: Median Imputation
+Cleaning Status: Successful
