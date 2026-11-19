@@ -1,0 +1,10 @@
+E-COMMERCE DATA CLEANING REPORT
+--------------------------------
+Original Records: 1000
+Cleaned Records: 980
+Remaining Missing Prices: 0
+Remaining Duplicate Orders: 0
+Remaining Invalid Quantities: 0
+City Names: Standardized
+Order Dates: Standardized
+Cleaning Status: Completed
