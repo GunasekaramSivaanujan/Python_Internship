@@ -1,0 +1,1001 @@
+Customer ID,Age,Gender,City,Income,Purchase Amount,Product Category
+C0001,58,Male,Colombo,92097,0,Clothing
+C0002,26,Male,Negombo,42790,78397,Home Appliances
+C0003,20,Male,Colombo,77314,31495,Electronics
+C0004,53,Male,Negombo,129974,29893,Home Appliances
+C0005,55,Female,Colombo,61853,92506,Home Appliances
+C0006,39,Female,Jaffna,76443,45118,Electronics
+C0007,23,Female,Colombo,114104,46082,Accessories
+C0008,69,Male,Galle,160568,17361,Home Appliances
+C0009,23,Female,Negombo,114800,76674,Clothing
+C0010,63,Male,Colombo,193346,30871,Accessories
+C0011,23,Male,Colombo,119647,37434,Home Appliances
+C0012,58,Female,Jaffna,117040,47566,Clothing
+C0013,60,Female,Colombo,179680,84227,Clothing
+C0014,52,Male,Jaffna,141178,50735,Accessories
+C0015,58,Male,Kandy,34663,31021,Electronics
+C0016,69,Female,Galle,90186,9675,Clothing
+C0017,54,Female,Jaffna,191819,66435,Home Appliances
+C0018,59,Female,Jaffna,89436,19301,Clothing
+C0019,65,Female,Negombo,132311,77484,Home Appliances
+C0020,41,Male,Jaffna,153569,65686,Electronics
+C0021,66,Male,Colombo,60066,0,Clothing
+C0022,68,Female,Negombo,36653,51432,Home Appliances
+C0023,56,Female,Negombo,85906,73512,Electronics
+C0024,61,Male,Negombo,89946,85012,Accessories
+C0025,25,Female,Galle,61460,60470,Electronics
+C0026,64,Female,Negombo,66832,67542,Electronics
+C0027,58,Female,Negombo,179637,27071,Clothing
+C0028,41,Male,Negombo,159029,1074,Accessories
+C0029,49,Male,Colombo,115153,41306,Clothing
+C0030,21,Male,Negombo,40645,12226,Home Appliances
+C0031,70,Male,Negombo,52967,17828,Home Appliances
+C0032,53,Male,Kandy,158326,80507,Home Appliances
+C0033,31,Male,Kandy,124593,89039,Accessories
+C0034,46,Female,Colombo,84986,30451,Electronics
+C0035,39,Male,Negombo,165207,31161,Clothing
+C0036,18,Male,Colombo,80015,9834,Electronics
+C0037,39,Male,Negombo,82391,37500,Home Appliances
+C0038,31,Male,Negombo,171050,62953,Clothing
+C0039,68,Female,Galle,69914,13363,Electronics
+C0040,60,Female,Kandy,131038,54883,Home Appliances
+C0041,64,Male,Colombo,35889,0,Accessories
+C0042,69,Male,Jaffna,70224,25931,Home Appliances
+C0043,26,Female,Jaffna,93018,61637,Clothing
+C0044,22,Female,Negombo,45666,7630,Electronics
+C0045,23,Male,Jaffna,126539,64653,Home Appliances
+C0046,31,Female,Colombo,63158,50672,Electronics
+C0047,42,Female,Galle,94776,56444,Home Appliances
+C0048,27,Male,Kandy,77068,8665,Electronics
+C0049,65,Female,Colombo,33144,77569,Home Appliances
+C0050,50,Male,Colombo,153124,11500,Clothing
+C0051,22,Male,Jaffna,125847,16713,Clothing
+C0052,55,Male,Negombo,41491,55948,Accessories
+C0053,34,Male,Kandy,82570,35814,Home Appliances
+C0054,26,Female,Galle,102883,99548,Electronics
+C0055,18,Female,Negombo,167585,14104,Electronics
+C0056,52,Male,Negombo,89520,18361,Accessories
+C0057,22,Male,Kandy,94707,21676,Home Appliances
+C0058,52,Female,Negombo,191435,70329,Electronics
+C0059,60,Female,Colombo,55203,35664,Electronics
+C0060,24,Male,Kandy,93860,80276,Clothing
+C0061,63,Female,Jaffna,186261,0,Home Appliances
+C0062,34,Male,Colombo,186273,56518,Accessories
+C0063,20,Male,Kandy,54293,84507,Accessories
+C0064,28,Female,Negombo,132115,74519,Electronics
+C0065,25,Male,Jaffna,163023,5722,Accessories
+C0066,55,Male,Galle,53409,6482,Accessories
+C0067,41,Male,Kandy,75070,90399,Clothing
+C0068,60,Male,Kandy,166770,54264,Clothing
+C0069,33,Male,Jaffna,128080,4248,Clothing
+C0070,65,Female,Galle,195612,97345,Clothing
+C0071,35,Male,Colombo,120281,6075,Home Appliances
+C0072,32,Male,Galle,111660,41001,Clothing
+C0073,32,Male,Jaffna,124455,44025,Accessories
+C0074,22,Female,Kandy,188160,67768,Home Appliances
+C0075,61,Female,Colombo,50236,35237,Clothing
+C0076,55,Female,Colombo,48417,79193,Home Appliances
+C0077,40,Female,Galle,178914,68033,Electronics
+C0078,42,Male,Kandy,31635,93901,Home Appliances
+C0079,18,Male,Kandy,133062,10171,Accessories
+C0080,57,Female,Colombo,98727,67469,Accessories
+C0081,60,Female,Kandy,125486,0,Accessories
+C0082,53,Male,Jaffna,130217,88153,Home Appliances
+C0083,61,Male,Negombo,169187,40446,Home Appliances
+C0084,53,Male,Kandy,95212,28549,Home Appliances
+C0085,68,Female,Galle,135811,58954,Clothing
+C0086,50,Female,Jaffna,192713,12114,Accessories
+C0087,50,Female,Colombo,81569,89184,Accessories
+C0088,32,Male,Jaffna,26402,7057,Clothing
+C0089,48,Male,Galle,128643,83544,Clothing
+C0090,63,Female,Galle,124766,32979,Clothing
+C0091,59,Male,Colombo,131449,29683,Clothing
+C0092,69,Female,Colombo,166120,33662,Electronics
+C0093,47,Male,Galle,195001,70616,Accessories
+C0094,66,Female,Negombo,152324,56933,Home Appliances
+C0095,28,Female,Galle,87945,99536,Clothing
+C0096,58,Female,Negombo,147034,83149,Clothing
+C0097,35,Female,Colombo,94901,31735,Accessories
+C0098,39,Female,Negombo,41122,19136,Clothing
+C0099,32,Female,Jaffna,76086,9418,Home Appliances
+C0100,44,Female,Negombo,142139,55496,Electronics
+C0101,31,Female,Galle,173112,0,Electronics
+C0102,66,Female,Galle,21545,47105,Accessories
+C0103,66,Female,Galle,161091,98978,Clothing
+C0104,49,Male,Kandy,134251,64654,Electronics
+C0105,42,Female,Galle,63265,62261,Clothing
+C0106,57,Male,Galle,175161,74975,Electronics
+C0107,23,Female,Jaffna,141031,24819,Electronics
+C0108,34,Female,Kandy,75485,60598,Accessories
+C0109,39,Female,Kandy,130510,34065,Electronics
+C0110,48,Male,Negombo,33653,46870,Clothing
+C0111,59,Male,Colombo,28134,33411,Clothing
+C0112,19,Male,Jaffna,53088,63070,Electronics
+C0113,54,Male,Galle,87172,49351,Clothing
+C0114,56,Male,Jaffna,101536,15168,Electronics
+C0115,37,Female,Galle,71990,10961,Clothing
+C0116,24,Female,Negombo,51733,75177,Electronics
+C0117,40,Female,Kandy,38076,67317,Accessories
+C0118,18,Female,Galle,47666,57822,Accessories
+C0119,58,Female,Jaffna,134160,24086,Accessories
+C0120,57,Female,Galle,134183,96817,Accessories
+C0121,38,Male,Colombo,93119,0,Clothing
+C0122,66,Female,Negombo,179994,88580,Home Appliances
+C0123,39,Male,Galle,105200,24834,Home Appliances
+C0124,31,Female,Kandy,109217,37655,Accessories
+C0125,53,Male,Negombo,70084,12221,Clothing
+C0126,64,Female,Galle,165536,32499,Home Appliances
+C0127,59,Female,Galle,24520,13196,Accessories
+C0128,32,Female,Jaffna,100270,88026,Accessories
+C0129,48,Female,Galle,164281,44357,Accessories
+C0130,62,Female,Kandy,100379,33951,Clothing
+C0131,25,Male,Kandy,51340,98370,Clothing
+C0132,30,Male,Galle,92482,95972,Accessories
+C0133,24,Male,Kandy,79633,48301,Clothing
+C0134,37,Male,Negombo,53182,36954,Electronics
+C0135,21,Female,Jaffna,187213,99669,Home Appliances
+C0136,24,Male,Negombo,94537,62524,Home Appliances
+C0137,46,Female,Jaffna,33468,34092,Home Appliances
+C0138,25,Male,Galle,148908,10710,Electronics
+C0139,27,Male,Negombo,99648,12164,Clothing
+C0140,25,Female,Negombo,176271,82057,Clothing
+C0141,67,Female,Galle,136056,0,Home Appliances
+C0142,37,Male,Negombo,46013,28235,Clothing
+C0143,34,Male,Jaffna,82879,23782,Electronics
+C0144,28,Male,Galle,138096,91357,Home Appliances
+C0145,36,Male,Jaffna,95524,93662,Accessories
+C0146,62,Female,Colombo,81190,35675,Clothing
+C0147,45,Male,Negombo,78932,85886,Clothing
+C0148,35,Male,Colombo,35633,22747,Accessories
+C0149,56,Female,Galle,52598,62433,Accessories
+C0150,62,Female,Kandy,151195,71776,Home Appliances
+C0151,46,Male,Negombo,30449,57626,Accessories
+C0152,56,Female,Colombo,43940,31005,Electronics
+C0153,66,Female,Negombo,30546,23962,Home Appliances
+C0154,51,Female,Kandy,67576,77720,Home Appliances
+C0155,58,Female,Colombo,143210,46607,Home Appliances
+C0156,39,Female,Colombo,62159,44228,Home Appliances
+C0157,62,Female,Kandy,193692,53488,Electronics
+C0158,47,Male,Kandy,86164,43372,Electronics
+C0159,67,Female,Negombo,20301,87200,Home Appliances
+C0160,44,Male,Jaffna,155905,48419,Home Appliances
+C0161,58,Female,Colombo,73361,0,Clothing
+C0162,36,Female,Galle,51831,4783,Clothing
+C0163,63,Male,Kandy,164399,2792,Home Appliances
+C0164,23,Male,Colombo,140965,16396,Clothing
+C0165,49,Female,Negombo,91676,55459,Home Appliances
+C0166,48,Male,Galle,164510,19958,Home Appliances
+C0167,30,Male,Colombo,92416,55387,Accessories
+C0168,68,Female,Colombo,94144,96164,Accessories
+C0169,55,Female,Jaffna,137059,71592,Home Appliances
+C0170,40,Female,Negombo,162456,50441,Home Appliances
+C0171,38,Male,Jaffna,169893,51196,Clothing
+C0172,67,Female,Colombo,103408,98609,Home Appliances
+C0173,63,Female,Galle,193982,86461,Clothing
+C0174,49,Male,Jaffna,151672,78356,Accessories
+C0175,24,Female,Colombo,157874,60890,Electronics
+C0176,64,Male,Galle,191646,21232,Electronics
+C0177,48,Female,Kandy,183383,91794,Home Appliances
+C0178,59,Male,Kandy,196778,70942,Home Appliances
+C0179,38,Female,Negombo,29410,81931,Electronics
+C0180,33,Female,Jaffna,43692,57881,Electronics
+C0181,66,Male,Galle,63611,0,Accessories
+C0182,19,Male,Kandy,34711,39452,Accessories
+C0183,41,Female,Jaffna,84014,70621,Home Appliances
+C0184,54,Male,Jaffna,65893,11350,Home Appliances
+C0185,57,Male,Galle,172871,19758,Clothing
+C0186,47,Female,Galle,86932,88404,Electronics
+C0187,69,Female,Kandy,197631,72643,Clothing
+C0188,22,Female,Kandy,174028,40210,Home Appliances
+C0189,62,Female,Galle,99199,27111,Home Appliances
+C0190,48,Male,Jaffna,119972,75963,Accessories
+C0191,54,Female,Kandy,25751,87275,Home Appliances
+C0192,35,Male,Negombo,199778,98605,Electronics
+C0193,56,Female,Kandy,80324,80569,Accessories
+C0194,32,Male,Negombo,85700,89835,Clothing
+C0195,58,Male,Colombo,100984,58779,Electronics
+C0196,55,Female,Jaffna,43627,39680,Accessories
+C0197,65,Female,Jaffna,72637,18322,Accessories
+C0198,51,Female,Jaffna,87363,64156,Accessories
+C0199,65,Female,Colombo,142770,10869,Clothing
+C0200,66,Male,Galle,166096,48942,Electronics
+C0201,68,Female,Colombo,89326,0,Electronics
+C0202,47,Female,Kandy,173238,50941,Accessories
+C0203,24,Male,Galle,26560,82205,Accessories
+C0204,57,Male,Colombo,186567,61852,Accessories
+C0205,59,Female,Colombo,56641,6943,Electronics
+C0206,37,Female,Colombo,45478,31775,Clothing
+C0207,42,Female,Kandy,195763,98404,Home Appliances
+C0208,55,Male,Galle,191683,13978,Home Appliances
+C0209,57,Female,Kandy,28576,91476,Accessories
+C0210,31,Female,Galle,81895,48537,Electronics
+C0211,61,Female,Negombo,189037,48012,Electronics
+C0212,43,Female,Jaffna,52023,60600,Electronics
+C0213,60,Male,Negombo,25598,7629,Accessories
+C0214,33,Male,Negombo,73793,9992,Clothing
+C0215,55,Male,Jaffna,106129,20340,Electronics
+C0216,35,Male,Jaffna,161614,33853,Clothing
+C0217,25,Male,Jaffna,23895,47955,Clothing
+C0218,55,Female,Colombo,65677,35782,Electronics
+C0219,26,Female,Negombo,49792,98735,Electronics
+C0220,48,Female,Kandy,154542,78812,Electronics
+C0221,46,Male,Negombo,31367,0,Accessories
+C0222,47,Male,Colombo,145562,53640,Home Appliances
+C0223,61,Male,Galle,136277,10632,Electronics
+C0224,38,Male,Colombo,53080,37046,Accessories
+C0225,42,Female,Galle,152527,80354,Home Appliances
+C0226,24,Male,Negombo,76367,57370,Home Appliances
+C0227,32,Female,Kandy,138882,53262,Home Appliances
+C0228,64,Male,Kandy,131873,41963,Accessories
+C0229,41,Male,Galle,37598,12957,Electronics
+C0230,23,Female,Colombo,117687,18054,Electronics
+C0231,55,Female,Colombo,127691,47346,Home Appliances
+C0232,64,Male,Kandy,177393,41953,Accessories
+C0233,24,Male,Jaffna,192159,64201,Clothing
+C0234,24,Female,Negombo,116353,16058,Accessories
+C0235,54,Male,Galle,167053,82490,Electronics
+C0236,56,Female,Colombo,67294,36818,Accessories
+C0237,39,Female,Colombo,67554,19776,Home Appliances
+C0238,22,Male,Colombo,44053,98794,Clothing
+C0239,42,Female,Galle,109363,21631,Accessories
+C0240,37,Female,Negombo,176296,12135,Electronics
+C0241,27,Male,Negombo,33044,0,Electronics
+C0242,35,Female,Galle,147313,80570,Home Appliances
+C0243,44,Female,Jaffna,154308,15918,Accessories
+C0244,45,Male,Kandy,197790,89930,Home Appliances
+C0245,51,Female,Colombo,77807,52807,Electronics
+C0246,18,Male,Kandy,75373,18987,Accessories
+C0247,36,Female,Colombo,22026,66193,Home Appliances
+C0248,29,Male,Galle,159613,93231,Clothing
+C0249,50,Female,Colombo,124089,98260,Electronics
+C0250,45,Male,Galle,40411,42033,Home Appliances
+C0251,54,Female,Galle,95894,16096,Home Appliances
+C0252,19,Female,Jaffna,182037,61305,Accessories
+C0253,23,Female,Colombo,83783,58104,Home Appliances
+C0254,51,Male,Galle,101336,98754,Accessories
+C0255,32,Female,Jaffna,40022,67910,Electronics
+C0256,51,Male,Kandy,112038,96339,Clothing
+C0257,33,Male,Jaffna,87100,26856,Clothing
+C0258,56,Male,Colombo,66437,83306,Home Appliances
+C0259,47,Female,Negombo,188556,84269,Accessories
+C0260,58,Female,Jaffna,135281,9950,Home Appliances
+C0261,46,Female,Kandy,175037,0,Accessories
+C0262,50,Male,Kandy,141043,60233,Electronics
+C0263,21,Female,Kandy,40114,85497,Electronics
+C0264,57,Female,Galle,172129,73655,Electronics
+C0265,46,Male,Kandy,178598,63341,Clothing
+C0266,21,Female,Colombo,110030,94626,Electronics
+C0267,50,Male,Colombo,84944,93749,Home Appliances
+C0268,46,Male,Kandy,117740,38079,Home Appliances
+C0269,44,Female,Negombo,33727,83691,Accessories
+C0270,22,Female,Colombo,166266,89916,Home Appliances
+C0271,36,Female,Negombo,59419,44694,Electronics
+C0272,55,Male,Kandy,101325,86990,Home Appliances
+C0273,26,Male,Kandy,166518,50372,Accessories
+C0274,70,Male,Negombo,44498,85675,Home Appliances
+C0275,50,Female,Colombo,115052,41483,Clothing
+C0276,31,Female,Galle,70333,30693,Clothing
+C0277,27,Male,Kandy,46513,67543,Electronics
+C0278,60,Female,Negombo,54353,79282,Home Appliances
+C0279,27,Male,Jaffna,183771,22697,Home Appliances
+C0280,20,Female,Kandy,197304,95317,Clothing
+C0281,46,Female,Galle,81342,0,Clothing
+C0282,37,Female,Jaffna,116427,89907,Home Appliances
+C0283,47,Female,Galle,151833,70135,Home Appliances
+C0284,28,Male,Negombo,56280,33768,Electronics
+C0285,59,Female,Kandy,165369,14446,Electronics
+C0286,36,Male,Jaffna,91510,59893,Clothing
+C0287,45,Male,Jaffna,138260,46820,Electronics
+C0288,44,Male,Galle,151598,50015,Clothing
+C0289,42,Male,Kandy,78861,4694,Accessories
+C0290,24,Female,Jaffna,56070,6020,Accessories
+C0291,48,Male,Galle,137598,81654,Electronics
+C0292,23,Male,Kandy,76532,20597,Home Appliances
+C0293,25,Female,Jaffna,98944,16970,Electronics
+C0294,33,Female,Negombo,139829,9232,Electronics
+C0295,49,Male,Negombo,170745,32711,Clothing
+C0296,36,Female,Colombo,181168,47244,Clothing
+C0297,54,Female,Jaffna,194160,88584,Electronics
+C0298,51,Female,Colombo,157903,72313,Electronics
+C0299,42,Female,Colombo,186637,51709,Accessories
+C0300,34,Male,Kandy,37710,46193,Clothing
+C0301,64,Male,Negombo,107167,0,Electronics
+C0302,40,Female,Jaffna,199485,61899,Home Appliances
+C0303,58,Male,Jaffna,36541,94853,Home Appliances
+C0304,20,Female,Jaffna,31483,27144,Electronics
+C0305,38,Female,Negombo,124392,72176,Home Appliances
+C0306,34,Male,Jaffna,95002,47789,Electronics
+C0307,59,Female,Kandy,52630,49237,Home Appliances
+C0308,43,Female,Galle,108876,25486,Home Appliances
+C0309,62,Female,Kandy,156125,35959,Electronics
+C0310,64,Female,Colombo,132881,79964,Clothing
+C0311,52,Female,Kandy,46895,11494,Accessories
+C0312,60,Female,Kandy,136894,79986,Home Appliances
+C0313,28,Female,Kandy,137212,6551,Accessories
+C0314,57,Female,Kandy,187633,8518,Electronics
+C0315,60,Female,Kandy,154502,99290,Clothing
+C0316,19,Male,Negombo,197756,58432,Electronics
+C0317,26,Male,Jaffna,189125,49015,Accessories
+C0318,42,Male,Negombo,60222,90006,Home Appliances
+C0319,41,Female,Galle,40155,76225,Clothing
+C0320,51,Female,Galle,102414,86139,Accessories
+C0321,33,Male,Colombo,68771,0,Home Appliances
+C0322,53,Male,Kandy,88233,93279,Home Appliances
+C0323,31,Female,Galle,72475,17074,Clothing
+C0324,22,Female,Jaffna,136683,12506,Accessories
+C0325,60,Female,Colombo,164178,72063,Accessories
+C0326,37,Male,Jaffna,114763,67683,Clothing
+C0327,25,Male,Jaffna,82058,65752,Electronics
+C0328,41,Female,Galle,164610,18009,Electronics
+C0329,22,Female,Galle,145479,69903,Home Appliances
+C0330,67,Female,Negombo,39333,17426,Accessories
+C0331,59,Male,Galle,142115,90143,Accessories
+C0332,26,Male,Jaffna,133408,66911,Electronics
+C0333,25,Male,Kandy,63163,22229,Accessories
+C0334,63,Male,Kandy,156025,38230,Electronics
+C0335,34,Male,Negombo,91945,17406,Accessories
+C0336,57,Male,Negombo,188031,23103,Clothing
+C0337,28,Female,Negombo,30798,4718,Electronics
+C0338,20,Female,Jaffna,169982,55602,Electronics
+C0339,49,Female,Kandy,146601,33096,Home Appliances
+C0340,37,Female,Colombo,35705,21719,Home Appliances
+C0341,44,Female,Galle,73483,0,Clothing
+C0342,38,Female,Kandy,124521,18139,Accessories
+C0343,50,Male,Kandy,83370,62141,Electronics
+C0344,35,Female,Jaffna,56930,13689,Electronics
+C0345,36,Female,Negombo,129611,33541,Clothing
+C0346,70,Female,Negombo,101976,25881,Clothing
+C0347,49,Female,Galle,100882,66191,Electronics
+C0348,23,Female,Negombo,139860,32552,Clothing
+C0349,55,Female,Colombo,33248,37877,Home Appliances
+C0350,56,Female,Kandy,160690,2071,Electronics
+C0351,45,Male,Kandy,115886,53855,Accessories
+C0352,20,Female,Colombo,169495,74638,Clothing
+C0353,41,Female,Colombo,121279,67093,Home Appliances
+C0354,66,Female,Negombo,198362,81090,Electronics
+C0355,26,Male,Galle,117831,45444,Accessories
+C0356,66,Male,Jaffna,177932,67731,Home Appliances
+C0357,50,Male,Colombo,30201,18961,Accessories
+C0358,69,Female,Negombo,139796,20521,Clothing
+C0359,38,Female,Jaffna,123010,81805,Accessories
+C0360,55,Female,Negombo,153618,70774,Home Appliances
+C0361,63,Female,Galle,24361,0,Accessories
+C0362,61,Male,Galle,173014,41327,Electronics
+C0363,56,Female,Kandy,191859,76821,Clothing
+C0364,64,Male,Negombo,145946,23349,Home Appliances
+C0365,27,Male,Colombo,170095,92818,Electronics
+C0366,30,Male,Galle,102232,55890,Clothing
+C0367,44,Male,Galle,151548,81147,Home Appliances
+C0368,65,Male,Jaffna,155969,28176,Accessories
+C0369,60,Female,Negombo,118782,42124,Clothing
+C0370,47,Female,Negombo,112874,89587,Accessories
+C0371,57,Female,Jaffna,84623,37569,Accessories
+C0372,32,Female,Kandy,74336,91471,Home Appliances
+C0373,38,Female,Kandy,166928,95589,Accessories
+C0374,36,Male,Negombo,197372,72197,Home Appliances
+C0375,43,Female,Jaffna,96140,6513,Accessories
+C0376,63,Male,Kandy,135966,86979,Accessories
+C0377,65,Female,Jaffna,72970,71592,Accessories
+C0378,53,Female,Jaffna,48633,81698,Clothing
+C0379,33,Male,Negombo,79158,84616,Clothing
+C0380,21,Male,Galle,106584,95025,Home Appliances
+C0381,24,Male,Colombo,164271,0,Home Appliances
+C0382,59,Female,Galle,190534,27143,Accessories
+C0383,38,Female,Colombo,43451,86498,Clothing
+C0384,52,Male,Jaffna,129546,24040,Electronics
+C0385,43,Female,Jaffna,95882,5910,Electronics
+C0386,37,Male,Kandy,94596,60552,Home Appliances
+C0387,26,Female,Kandy,70544,15764,Accessories
+C0388,28,Female,Kandy,68810,2846,Accessories
+C0389,68,Female,Negombo,196790,26318,Clothing
+C0390,57,Female,Galle,155077,43982,Electronics
+C0391,43,Male,Jaffna,56860,63580,Accessories
+C0392,33,Male,Kandy,120551,31870,Home Appliances
+C0393,66,Female,Kandy,99153,77344,Electronics
+C0394,34,Female,Jaffna,36285,88528,Electronics
+C0395,47,Female,Jaffna,126277,90925,Accessories
+C0396,62,Male,Kandy,116349,81560,Clothing
+C0397,32,Male,Galle,60156,60634,Accessories
+C0398,44,Female,Negombo,194088,29627,Clothing
+C0399,61,Male,Negombo,137112,70228,Accessories
+C0400,22,Male,Colombo,163562,67255,Clothing
+C0401,54,Male,Jaffna,106014,0,Home Appliances
+C0402,25,Male,Negombo,148143,12919,Home Appliances
+C0403,69,Male,Galle,54588,68272,Home Appliances
+C0404,47,Male,Negombo,141209,89181,Accessories
+C0405,64,Male,Galle,86704,1395,Clothing
+C0406,55,Male,Colombo,131069,46158,Electronics
+C0407,52,Male,Colombo,143750,5159,Accessories
+C0408,44,Male,Jaffna,188171,96589,Home Appliances
+C0409,41,Female,Galle,118958,50236,Electronics
+C0410,61,Male,Kandy,51098,24392,Home Appliances
+C0411,51,Male,Jaffna,20910,3979,Accessories
+C0412,47,Female,Negombo,119425,31102,Clothing
+C0413,47,Female,Jaffna,92259,25704,Electronics
+C0414,20,Female,Negombo,24101,32544,Clothing
+C0415,22,Male,Negombo,28801,59515,Electronics
+C0416,33,Male,Galle,135071,31715,Clothing
+C0417,66,Male,Jaffna,152093,38914,Clothing
+C0418,70,Female,Negombo,176740,89150,Accessories
+C0419,33,Female,Jaffna,193070,69321,Clothing
+C0420,44,Female,Kandy,35979,73970,Clothing
+C0421,58,Female,Negombo,149924,0,Accessories
+C0422,59,Female,Negombo,103554,92266,Home Appliances
+C0423,44,Male,Kandy,118686,25101,Home Appliances
+C0424,33,Male,Kandy,57840,61689,Electronics
+C0425,53,Female,Galle,166089,70467,Clothing
+C0426,42,Male,Kandy,73303,44288,Electronics
+C0427,46,Female,Colombo,160413,95972,Clothing
+C0428,21,Female,Galle,196599,80294,Electronics
+C0429,22,Male,Negombo,196016,74249,Clothing
+C0430,48,Male,Kandy,99478,3009,Clothing
+C0431,30,Male,Galle,83594,92177,Clothing
+C0432,43,Male,Negombo,104309,38101,Home Appliances
+C0433,47,Female,Kandy,88566,48139,Home Appliances
+C0434,47,Male,Galle,103947,27624,Accessories
+C0435,38,Female,Colombo,167462,30002,Clothing
+C0436,19,Female,Negombo,173100,76909,Home Appliances
+C0437,36,Male,Jaffna,106472,31149,Home Appliances
+C0438,54,Male,Galle,164347,86800,Accessories
+C0439,34,Female,Galle,140803,23050,Accessories
+C0440,28,Male,Negombo,148009,25123,Electronics
+C0441,51,Male,Colombo,195168,0,Electronics
+C0442,44,Male,Jaffna,37817,93690,Clothing
+C0443,18,Male,Negombo,139540,49916,Electronics
+C0444,57,Female,Galle,24123,1866,Home Appliances
+C0445,18,Male,Negombo,92021,71220,Accessories
+C0446,19,Female,Jaffna,48053,13624,Clothing
+C0447,33,Male,Negombo,158007,34084,Accessories
+C0448,35,Female,Colombo,117793,54218,Home Appliances
+C0449,54,Male,Jaffna,98636,90658,Electronics
+C0450,59,Male,Colombo,126241,50710,Home Appliances
+C0451,53,Female,Colombo,186919,2238,Clothing
+C0452,23,Female,Galle,189058,44420,Electronics
+C0453,51,Male,Jaffna,75421,91739,Home Appliances
+C0454,35,Male,Colombo,199418,37749,Electronics
+C0455,29,Female,Colombo,74305,77943,Clothing
+C0456,66,Female,Colombo,98453,22292,Clothing
+C0457,54,Female,Negombo,106960,51311,Clothing
+C0458,68,Male,Negombo,110664,8038,Electronics
+C0459,45,Male,Colombo,109284,80320,Home Appliances
+C0460,67,Female,Colombo,186231,36825,Home Appliances
+C0461,49,Male,Kandy,164975,0,Home Appliances
+C0462,29,Female,Colombo,182166,39715,Clothing
+C0463,63,Male,Colombo,90247,21214,Home Appliances
+C0464,63,Male,Galle,103015,48277,Electronics
+C0465,23,Male,Kandy,136584,48175,Accessories
+C0466,24,Male,Colombo,69123,57489,Home Appliances
+C0467,53,Female,Colombo,26884,12746,Accessories
+C0468,53,Male,Negombo,176773,43523,Home Appliances
+C0469,18,Female,Galle,121659,12101,Clothing
+C0470,54,Male,Galle,64433,19198,Accessories
+C0471,37,Female,Galle,58255,9292,Clothing
+C0472,45,Female,Galle,98578,64469,Electronics
+C0473,41,Female,Jaffna,183848,65985,Clothing
+C0474,47,Male,Jaffna,99864,1887,Home Appliances
+C0475,39,Female,Kandy,135401,44874,Home Appliances
+C0476,70,Male,Kandy,104060,80064,Clothing
+C0477,48,Female,Jaffna,124396,42830,Accessories
+C0478,65,Female,Negombo,83550,43714,Home Appliances
+C0479,35,Female,Kandy,49855,74905,Clothing
+C0480,55,Male,Negombo,27055,96317,Home Appliances
+C0481,63,Male,Galle,96370,0,Electronics
+C0482,70,Female,Galle,56484,84012,Accessories
+C0483,33,Female,Jaffna,130920,50412,Electronics
+C0484,46,Female,Negombo,125068,71040,Home Appliances
+C0485,52,Male,Kandy,160746,78833,Electronics
+C0486,24,Male,Kandy,63604,85803,Electronics
+C0487,54,Female,Kandy,132841,14886,Electronics
+C0488,24,Female,Jaffna,153870,98891,Clothing
+C0489,46,Female,Galle,141389,90070,Clothing
+C0490,40,Male,Galle,47406,39722,Home Appliances
+C0491,23,Male,Jaffna,111312,41880,Accessories
+C0492,47,Male,Negombo,146596,46652,Home Appliances
+C0493,24,Female,Galle,103600,9804,Accessories
+C0494,20,Male,Colombo,109935,85930,Electronics
+C0495,61,Male,Jaffna,155264,23865,Clothing
+C0496,39,Female,Galle,80779,54090,Clothing
+C0497,29,Female,Galle,27652,97650,Clothing
+C0498,46,Female,Galle,21166,93371,Clothing
+C0499,31,Female,Colombo,171348,14336,Clothing
+C0500,41,Female,Jaffna,139944,15936,Accessories
+C0501,60,Female,Negombo,187538,0,Home Appliances
+C0502,57,Female,Negombo,49945,46603,Accessories
+C0503,47,Male,Kandy,181083,78354,Electronics
+C0504,61,Male,Kandy,50896,32270,Accessories
+C0505,25,Male,Kandy,57056,67954,Home Appliances
+C0506,44,Male,Negombo,120587,56448,Clothing
+C0507,49,Male,Negombo,63742,65178,Accessories
+C0508,26,Male,Kandy,138227,82187,Electronics
+C0509,40,Male,Galle,55791,26575,Home Appliances
+C0510,53,Female,Galle,199489,65451,Home Appliances
+C0511,63,Female,Galle,63844,11835,Electronics
+C0512,68,Male,Kandy,28570,37025,Clothing
+C0513,52,Female,Jaffna,139884,75140,Home Appliances
+C0514,53,Male,Negombo,49938,36112,Accessories
+C0515,52,Male,Galle,163223,29644,Home Appliances
+C0516,24,Male,Kandy,28449,59947,Accessories
+C0517,40,Male,Galle,50772,32056,Clothing
+C0518,69,Female,Negombo,185877,57120,Clothing
+C0519,57,Male,Jaffna,74248,8780,Accessories
+C0520,52,Female,Negombo,161234,23069,Accessories
+C0521,63,Female,Kandy,170139,0,Electronics
+C0522,26,Female,Colombo,92698,86969,Clothing
+C0523,62,Male,Jaffna,58336,94243,Accessories
+C0524,33,Female,Galle,57269,76684,Accessories
+C0525,58,Female,Galle,138486,10898,Electronics
+C0526,43,Female,Kandy,139195,64968,Accessories
+C0527,55,Male,Colombo,140179,84209,Accessories
+C0528,22,Female,Jaffna,132628,28767,Home Appliances
+C0529,35,Female,Kandy,108540,72737,Clothing
+C0530,54,Female,Kandy,198926,7345,Electronics
+C0531,24,Female,Colombo,52568,21707,Home Appliances
+C0532,47,Male,Galle,73036,91255,Clothing
+C0533,59,Female,Jaffna,91832,13234,Accessories
+C0534,34,Male,Kandy,194196,86054,Clothing
+C0535,21,Female,Kandy,81379,57260,Electronics
+C0536,63,Male,Colombo,75947,63496,Electronics
+C0537,26,Male,Negombo,198253,59335,Electronics
+C0538,18,Female,Colombo,130707,91968,Clothing
+C0539,48,Male,Jaffna,120419,12708,Electronics
+C0540,24,Female,Kandy,98447,18973,Home Appliances
+C0541,67,Male,Jaffna,37933,0,Electronics
+C0542,57,Male,Galle,112061,95690,Clothing
+C0543,58,Male,Galle,181500,90989,Home Appliances
+C0544,31,Male,Colombo,56703,99624,Electronics
+C0545,55,Female,Kandy,132561,42222,Clothing
+C0546,33,Female,Colombo,85055,73534,Accessories
+C0547,67,Male,Kandy,73856,68862,Clothing
+C0548,65,Female,Kandy,189389,8152,Clothing
+C0549,49,Female,Colombo,83198,66481,Electronics
+C0550,51,Male,Kandy,102961,18299,Home Appliances
+C0551,54,Female,Kandy,163224,90514,Clothing
+C0552,66,Female,Colombo,24375,77986,Electronics
+C0553,18,Female,Jaffna,30440,8925,Home Appliances
+C0554,50,Female,Negombo,128903,56518,Home Appliances
+C0555,23,Male,Kandy,41914,41620,Electronics
+C0556,50,Male,Jaffna,160611,43827,Home Appliances
+C0557,55,Male,Kandy,134684,96677,Clothing
+C0558,21,Male,Colombo,133897,16202,Home Appliances
+C0559,57,Male,Kandy,194608,98215,Clothing
+C0560,25,Male,Jaffna,22975,22473,Home Appliances
+C0561,40,Female,Jaffna,117483,0,Accessories
+C0562,64,Male,Colombo,107821,57272,Accessories
+C0563,51,Male,Kandy,171165,83251,Electronics
+C0564,49,Female,Negombo,114404,8266,Home Appliances
+C0565,54,Male,Kandy,61237,34438,Electronics
+C0566,54,Male,Jaffna,153385,1336,Electronics
+C0567,18,Male,Colombo,143670,48707,Home Appliances
+C0568,27,Male,Colombo,164930,94588,Home Appliances
+C0569,32,Female,Jaffna,129119,95409,Accessories
+C0570,35,Male,Negombo,117729,16650,Electronics
+C0571,29,Male,Negombo,32039,53550,Electronics
+C0572,47,Female,Kandy,105799,12322,Home Appliances
+C0573,18,Female,Jaffna,96439,74899,Accessories
+C0574,65,Male,Galle,116540,78554,Home Appliances
+C0575,67,Male,Negombo,84258,20735,Electronics
+C0576,44,Male,Jaffna,161962,46406,Electronics
+C0577,39,Male,Galle,100612,14624,Clothing
+C0578,51,Male,Galle,148982,8850,Clothing
+C0579,63,Female,Colombo,31508,31339,Home Appliances
+C0580,62,Female,Galle,42256,77122,Electronics
+C0581,50,Male,Galle,39616,0,Electronics
+C0582,45,Male,Jaffna,96461,35208,Accessories
+C0583,69,Female,Kandy,103376,60343,Accessories
+C0584,32,Male,Jaffna,55680,77638,Electronics
+C0585,27,Male,Jaffna,137851,62086,Accessories
+C0586,44,Male,Negombo,113922,28215,Home Appliances
+C0587,37,Female,Kandy,51434,12851,Clothing
+C0588,69,Female,Negombo,30572,29183,Accessories
+C0589,27,Male,Jaffna,113255,52936,Electronics
+C0590,61,Female,Kandy,65578,5073,Home Appliances
+C0591,46,Male,Colombo,141121,14357,Clothing
+C0592,25,Male,Colombo,78271,18133,Clothing
+C0593,70,Female,Kandy,199905,83614,Electronics
+C0594,55,Female,Colombo,25714,9450,Clothing
+C0595,59,Female,Jaffna,44111,44456,Electronics
+C0596,20,Female,Colombo,64037,76220,Home Appliances
+C0597,70,Female,Galle,27728,51165,Home Appliances
+C0598,29,Female,Jaffna,69060,37042,Accessories
+C0599,46,Male,Colombo,180984,82156,Clothing
+C0600,59,Female,Galle,128001,73179,Home Appliances
+C0601,21,Male,Kandy,120405,0,Home Appliances
+C0602,30,Male,Negombo,25119,51134,Accessories
+C0603,48,Female,Kandy,168282,66849,Accessories
+C0604,42,Female,Jaffna,26832,42795,Clothing
+C0605,19,Female,Colombo,143649,70393,Accessories
+C0606,67,Male,Jaffna,46249,33487,Clothing
+C0607,35,Male,Jaffna,170914,51911,Accessories
+C0608,29,Male,Jaffna,175325,42681,Accessories
+C0609,55,Male,Kandy,168806,74873,Clothing
+C0610,54,Male,Galle,162114,41508,Clothing
+C0611,49,Male,Colombo,34724,31490,Clothing
+C0612,19,Female,Colombo,106962,81495,Clothing
+C0613,69,Male,Kandy,66520,43413,Electronics
+C0614,19,Male,Negombo,57133,15538,Accessories
+C0615,22,Female,Galle,173620,14242,Accessories
+C0616,37,Female,Jaffna,61288,96990,Home Appliances
+C0617,68,Female,Kandy,65666,93691,Accessories
+C0618,32,Male,Galle,100431,97206,Accessories
+C0619,26,Male,Colombo,170165,52327,Electronics
+C0620,29,Female,Negombo,77906,84839,Electronics
+C0621,49,Male,Kandy,40396,0,Accessories
+C0622,38,Male,Colombo,195642,84768,Accessories
+C0623,46,Male,Kandy,74967,33707,Electronics
+C0624,40,Female,Colombo,20335,7310,Home Appliances
+C0625,46,Female,Jaffna,128532,65629,Home Appliances
+C0626,40,Female,Colombo,145695,76766,Clothing
+C0627,28,Female,Colombo,28758,39654,Electronics
+C0628,38,Female,Colombo,39451,45801,Clothing
+C0629,42,Male,Colombo,163404,13203,Accessories
+C0630,56,Female,Colombo,133068,86673,Clothing
+C0631,56,Female,Jaffna,34039,14272,Accessories
+C0632,31,Male,Galle,165257,95638,Accessories
+C0633,60,Female,Kandy,82271,13571,Electronics
+C0634,43,Female,Jaffna,34288,48294,Electronics
+C0635,45,Male,Kandy,193544,82931,Home Appliances
+C0636,30,Male,Colombo,74251,23391,Accessories
+C0637,23,Female,Colombo,100832,53096,Home Appliances
+C0638,49,Female,Colombo,188261,72319,Home Appliances
+C0639,29,Female,Galle,116836,25455,Home Appliances
+C0640,20,Female,Galle,141912,35524,Clothing
+C0641,35,Male,Jaffna,194972,0,Electronics
+C0642,60,Female,Negombo,128524,78296,Clothing
+C0643,53,Male,Galle,156991,55870,Home Appliances
+C0644,54,Male,Galle,98342,11348,Home Appliances
+C0645,63,Male,Negombo,169741,68740,Clothing
+C0646,25,Female,Jaffna,63821,28772,Clothing
+C0647,26,Male,Galle,40543,90538,Home Appliances
+C0648,30,Male,Negombo,87603,42910,Electronics
+C0649,23,Female,Negombo,124164,73358,Accessories
+C0650,35,Female,Colombo,183330,78014,Home Appliances
+C0651,25,Female,Jaffna,58849,75264,Electronics
+C0652,24,Male,Kandy,160413,46071,Home Appliances
+C0653,34,Female,Galle,169952,80817,Home Appliances
+C0654,20,Male,Kandy,125637,19855,Home Appliances
+C0655,20,Female,Kandy,82279,7460,Home Appliances
+C0656,35,Female,Colombo,108569,40722,Accessories
+C0657,35,Female,Colombo,79757,18614,Accessories
+C0658,65,Female,Kandy,90626,96525,Home Appliances
+C0659,56,Male,Jaffna,135793,28707,Home Appliances
+C0660,65,Female,Negombo,118018,8367,Clothing
+C0661,22,Female,Negombo,125744,0,Electronics
+C0662,29,Male,Jaffna,35106,33701,Electronics
+C0663,47,Male,Kandy,72195,36910,Accessories
+C0664,70,Female,Negombo,124056,84284,Electronics
+C0665,61,Male,Jaffna,117639,65066,Home Appliances
+C0666,29,Female,Negombo,164528,46843,Accessories
+C0667,28,Female,Colombo,94729,4597,Home Appliances
+C0668,21,Male,Negombo,76182,30012,Clothing
+C0669,61,Male,Kandy,190809,54674,Electronics
+C0670,67,Male,Galle,54685,85852,Clothing
+C0671,56,Male,Jaffna,86162,80736,Accessories
+C0672,63,Female,Galle,118690,46706,Home Appliances
+C0673,34,Male,Galle,99205,89761,Home Appliances
+C0674,55,Male,Colombo,154090,87816,Accessories
+C0675,53,Female,Kandy,199414,15169,Home Appliances
+C0676,22,Female,Kandy,187928,43616,Accessories
+C0677,34,Female,Jaffna,59303,68802,Clothing
+C0678,21,Female,Kandy,198456,19340,Electronics
+C0679,59,Female,Kandy,88007,55862,Home Appliances
+C0680,42,Male,Negombo,169957,25892,Accessories
+C0681,64,Male,Negombo,187330,0,Accessories
+C0682,50,Female,Jaffna,192389,74170,Clothing
+C0683,36,Male,Galle,53539,98113,Accessories
+C0684,64,Male,Kandy,191556,12704,Clothing
+C0685,40,Male,Kandy,130224,44426,Accessories
+C0686,34,Female,Galle,50875,62674,Electronics
+C0687,58,Male,Galle,70998,66598,Electronics
+C0688,61,Female,Negombo,98212,55146,Electronics
+C0689,27,Male,Jaffna,109828,54633,Home Appliances
+C0690,27,Female,Jaffna,41184,64908,Accessories
+C0691,58,Male,Kandy,186330,8603,Electronics
+C0692,46,Female,Jaffna,64198,76534,Clothing
+C0693,49,Male,Jaffna,181082,57847,Home Appliances
+C0694,43,Female,Galle,120484,1611,Electronics
+C0695,52,Male,Kandy,23690,43233,Clothing
+C0696,19,Male,Jaffna,79314,91901,Accessories
+C0697,37,Male,Colombo,120545,66973,Accessories
+C0698,28,Male,Colombo,98171,39119,Home Appliances
+C0699,64,Female,Galle,55072,45922,Home Appliances
+C0700,40,Male,Jaffna,125746,3506,Clothing
+C0701,32,Male,Jaffna,25744,0,Clothing
+C0702,25,Female,Colombo,118354,84928,Accessories
+C0703,67,Male,Negombo,32572,87765,Electronics
+C0704,59,Male,Colombo,50353,55627,Home Appliances
+C0705,42,Male,Negombo,86253,63180,Clothing
+C0706,31,Male,Kandy,130328,87725,Electronics
+C0707,60,Female,Negombo,178763,92845,Clothing
+C0708,44,Male,Negombo,181925,16431,Accessories
+C0709,25,Male,Galle,72074,80823,Clothing
+C0710,67,Female,Negombo,72867,47913,Home Appliances
+C0711,36,Male,Colombo,163691,66058,Clothing
+C0712,62,Female,Kandy,81474,1358,Electronics
+C0713,60,Male,Colombo,170510,88690,Home Appliances
+C0714,27,Male,Negombo,39673,95838,Electronics
+C0715,34,Male,Galle,97600,35619,Home Appliances
+C0716,21,Male,Jaffna,30340,39085,Accessories
+C0717,69,Female,Galle,50382,13451,Electronics
+C0718,18,Male,Jaffna,106156,47861,Home Appliances
+C0719,57,Female,Colombo,117680,45921,Clothing
+C0720,25,Female,Galle,139678,36629,Home Appliances
+C0721,62,Female,Galle,190091,0,Electronics
+C0722,26,Male,Jaffna,47187,55529,Home Appliances
+C0723,69,Female,Jaffna,180254,50774,Accessories
+C0724,57,Male,Jaffna,146636,64979,Electronics
+C0725,44,Female,Colombo,36603,35290,Accessories
+C0726,18,Male,Kandy,156078,69564,Electronics
+C0727,45,Male,Galle,110636,87993,Home Appliances
+C0728,27,Male,Colombo,188663,21568,Home Appliances
+C0729,49,Male,Colombo,148882,43026,Clothing
+C0730,39,Female,Colombo,152888,30190,Home Appliances
+C0731,43,Male,Colombo,140348,59220,Home Appliances
+C0732,23,Female,Galle,102853,16559,Home Appliances
+C0733,65,Male,Colombo,125759,55046,Electronics
+C0734,53,Male,Colombo,178388,82142,Accessories
+C0735,50,Male,Galle,109352,48624,Electronics
+C0736,70,Male,Galle,107024,74420,Home Appliances
+C0737,63,Female,Galle,49890,13771,Clothing
+C0738,18,Female,Kandy,186110,39270,Accessories
+C0739,62,Male,Colombo,63032,65542,Clothing
+C0740,70,Female,Colombo,86660,81065,Clothing
+C0741,30,Male,Galle,76515,0,Clothing
+C0742,63,Female,Colombo,128650,7094,Electronics
+C0743,67,Female,Galle,192610,78242,Clothing
+C0744,49,Male,Negombo,32732,73512,Home Appliances
+C0745,55,Female,Negombo,66452,91677,Clothing
+C0746,64,Male,Colombo,121556,87182,Accessories
+C0747,50,Female,Galle,179644,91769,Clothing
+C0748,35,Female,Kandy,97115,60355,Clothing
+C0749,26,Female,Negombo,154294,40179,Accessories
+C0750,63,Male,Jaffna,74974,82810,Accessories
+C0751,61,Female,Jaffna,190416,24306,Accessories
+C0752,63,Male,Kandy,167398,63963,Home Appliances
+C0753,61,Female,Galle,23347,69515,Electronics
+C0754,19,Female,Jaffna,33910,88851,Electronics
+C0755,30,Female,Jaffna,95134,90573,Accessories
+C0756,27,Male,Kandy,73477,99775,Electronics
+C0757,40,Female,Colombo,181509,89542,Clothing
+C0758,65,Female,Jaffna,153935,92242,Accessories
+C0759,62,Male,Galle,121595,55600,Accessories
+C0760,53,Male,Colombo,85887,27619,Home Appliances
+C0761,32,Female,Negombo,163291,0,Clothing
+C0762,67,Male,Kandy,137654,24255,Electronics
+C0763,29,Male,Negombo,51287,50440,Electronics
+C0764,45,Female,Negombo,89268,18048,Clothing
+C0765,55,Female,Colombo,106655,62122,Clothing
+C0766,20,Male,Kandy,176468,7665,Accessories
+C0767,49,Female,Colombo,103324,69864,Clothing
+C0768,29,Male,Negombo,61778,55516,Home Appliances
+C0769,23,Female,Jaffna,75929,87944,Accessories
+C0770,39,Female,Kandy,77264,99652,Home Appliances
+C0771,53,Male,Colombo,195358,46351,Home Appliances
+C0772,33,Male,Colombo,198926,43065,Home Appliances
+C0773,68,Male,Galle,87263,71809,Accessories
+C0774,19,Female,Negombo,153361,59400,Home Appliances
+C0775,20,Female,Jaffna,103968,68357,Electronics
+C0776,24,Male,Negombo,159776,1960,Electronics
+C0777,31,Male,Galle,47243,27945,Home Appliances
+C0778,59,Male,Jaffna,26226,61191,Accessories
+C0779,20,Male,Colombo,34226,24329,Accessories
+C0780,53,Male,Negombo,79675,34901,Home Appliances
+C0781,42,Female,Galle,133514,0,Electronics
+C0782,42,Male,Negombo,21546,85072,Electronics
+C0783,66,Male,Colombo,113768,66907,Electronics
+C0784,36,Female,Negombo,42676,37899,Home Appliances
+C0785,42,Female,Colombo,144253,21489,Clothing
+C0786,26,Female,Negombo,97326,84105,Clothing
+C0787,37,Female,Colombo,165103,73754,Clothing
+C0788,25,Male,Colombo,170134,79204,Home Appliances
+C0789,52,Male,Kandy,75064,99080,Accessories
+C0790,31,Female,Negombo,57343,22096,Clothing
+C0791,32,Female,Jaffna,50047,24770,Electronics
+C0792,66,Female,Negombo,39174,39096,Electronics
+C0793,34,Male,Jaffna,172199,64857,Accessories
+C0794,40,Male,Jaffna,46226,38373,Electronics
+C0795,30,Female,Galle,138134,44036,Accessories
+C0796,62,Male,Negombo,168599,48774,Accessories
+C0797,45,Male,Colombo,102107,33266,Clothing
+C0798,63,Female,Kandy,114237,18603,Accessories
+C0799,48,Female,Galle,114041,41038,Home Appliances
+C0800,53,Male,Jaffna,189227,80511,Electronics
+C0801,35,Male,Negombo,71493,0,Electronics
+C0802,64,Male,Colombo,152953,83788,Electronics
+C0803,70,Female,Negombo,75773,5804,Accessories
+C0804,52,Female,Jaffna,115897,52445,Clothing
+C0805,67,Female,Jaffna,141818,66683,Electronics
+C0806,43,Female,Negombo,22776,87858,Clothing
+C0807,69,Male,Negombo,56797,59487,Clothing
+C0808,29,Male,Galle,114056,6297,Clothing
+C0809,66,Female,Jaffna,36478,35649,Accessories
+C0810,32,Male,Jaffna,155760,48349,Home Appliances
+C0811,48,Female,Colombo,30460,86003,Accessories
+C0812,24,Female,Kandy,171684,72349,Clothing
+C0813,42,Female,Kandy,174056,86634,Electronics
+C0814,51,Female,Galle,78431,68681,Home Appliances
+C0815,40,Female,Galle,146382,80195,Electronics
+C0816,50,Male,Galle,63412,31145,Electronics
+C0817,50,Female,Jaffna,59384,25498,Clothing
+C0818,41,Male,Jaffna,128688,44283,Electronics
+C0819,48,Female,Galle,75234,78436,Clothing
+C0820,59,Female,Colombo,83876,6655,Clothing
+C0821,54,Male,Jaffna,185030,0,Electronics
+C0822,54,Male,Colombo,63605,34850,Clothing
+C0823,51,Female,Negombo,167745,84574,Electronics
+C0824,64,Female,Colombo,76778,59877,Home Appliances
+C0825,48,Male,Jaffna,127680,79753,Clothing
+C0826,68,Male,Negombo,192922,67952,Accessories
+C0827,28,Female,Galle,176377,78410,Electronics
+C0828,32,Female,Galle,54658,15230,Electronics
+C0829,30,Female,Jaffna,178731,13622,Clothing
+C0830,48,Male,Negombo,151944,99616,Electronics
+C0831,23,Female,Jaffna,178197,71685,Electronics
+C0832,67,Female,Negombo,130279,49546,Electronics
+C0833,62,Female,Jaffna,146385,50969,Accessories
+C0834,55,Male,Galle,55096,34360,Home Appliances
+C0835,67,Male,Colombo,94256,79419,Home Appliances
+C0836,34,Male,Colombo,21864,76757,Electronics
+C0837,51,Male,Galle,191585,27924,Accessories
+C0838,44,Female,Colombo,60574,56846,Accessories
+C0839,34,Female,Negombo,115851,81200,Accessories
+C0840,61,Female,Jaffna,128325,73365,Home Appliances
+C0841,29,Female,Negombo,165466,0,Accessories
+C0842,37,Female,Galle,56193,87413,Electronics
+C0843,65,Male,Galle,62413,14143,Clothing
+C0844,50,Female,Kandy,164330,81481,Electronics
+C0845,28,Female,Colombo,43878,20048,Home Appliances
+C0846,56,Female,Colombo,36798,35483,Clothing
+C0847,41,Male,Negombo,29897,95960,Home Appliances
+C0848,43,Female,Negombo,35063,23973,Home Appliances
+C0849,46,Male,Jaffna,192198,68915,Accessories
+C0850,30,Male,Negombo,153837,68608,Clothing
+C0851,57,Male,Colombo,114303,32359,Electronics
+C0852,28,Male,Kandy,124709,47285,Home Appliances
+C0853,43,Male,Negombo,24028,97590,Electronics
+C0854,23,Female,Negombo,172812,46625,Accessories
+C0855,70,Female,Jaffna,178954,26496,Home Appliances
+C0856,43,Male,Kandy,65884,54363,Electronics
+C0857,53,Male,Negombo,97136,45560,Electronics
+C0858,69,Female,Negombo,170704,33786,Home Appliances
+C0859,42,Female,Jaffna,109040,61142,Home Appliances
+C0860,55,Male,Galle,50479,34792,Electronics
+C0861,42,Male,Jaffna,102766,0,Accessories
+C0862,51,Male,Kandy,85079,38655,Electronics
+C0863,43,Female,Colombo,165372,24394,Home Appliances
+C0864,38,Female,Jaffna,170395,36268,Clothing
+C0865,65,Male,Galle,72341,31783,Clothing
+C0866,34,Male,Jaffna,73154,33728,Accessories
+C0867,27,Male,Colombo,40575,89580,Home Appliances
+C0868,57,Male,Negombo,31079,64214,Accessories
+C0869,57,Female,Galle,170606,37009,Home Appliances
+C0870,29,Female,Galle,78220,99326,Clothing
+C0871,21,Female,Galle,161759,5268,Accessories
+C0872,43,Male,Galle,51553,92520,Home Appliances
+C0873,38,Male,Colombo,196712,28623,Home Appliances
+C0874,55,Male,Kandy,114791,81318,Accessories
+C0875,29,Female,Jaffna,90623,62780,Accessories
+C0876,41,Male,Galle,131134,28594,Home Appliances
+C0877,62,Female,Kandy,125012,37651,Home Appliances
+C0878,29,Male,Negombo,199833,30958,Electronics
+C0879,64,Female,Jaffna,165579,57651,Home Appliances
+C0880,30,Male,Jaffna,143990,2276,Clothing
+C0881,44,Female,Jaffna,185321,0,Accessories
+C0882,68,Female,Kandy,85791,74680,Electronics
+C0883,43,Male,Jaffna,35738,29241,Accessories
+C0884,48,Male,Galle,107728,35048,Accessories
+C0885,41,Female,Kandy,25199,54970,Electronics
+C0886,40,Male,Negombo,170967,86179,Clothing
+C0887,67,Female,Kandy,105220,89236,Home Appliances
+C0888,67,Female,Colombo,119895,81434,Accessories
+C0889,47,Male,Jaffna,187924,45222,Home Appliances
+C0890,58,Female,Colombo,40738,22233,Accessories
+C0891,32,Female,Kandy,191183,39188,Accessories
+C0892,56,Female,Kandy,136627,48600,Home Appliances
+C0893,44,Male,Jaffna,26055,17389,Clothing
+C0894,60,Female,Colombo,75200,22877,Home Appliances
+C0895,24,Male,Colombo,144042,72884,Electronics
+C0896,19,Female,Negombo,41823,14622,Accessories
+C0897,57,Male,Colombo,191660,52097,Accessories
+C0898,32,Male,Kandy,136171,83114,Clothing
+C0899,26,Male,Colombo,29215,87972,Accessories
+C0900,38,Female,Galle,161710,36705,Home Appliances
+C0901,26,Male,Negombo,176653,0,Home Appliances
+C0902,51,Female,Kandy,146262,71735,Clothing
+C0903,69,Male,Galle,100705,48943,Home Appliances
+C0904,34,Male,Kandy,22767,1012,Clothing
+C0905,40,Female,Galle,160272,2090,Home Appliances
+C0906,66,Female,Kandy,22394,57418,Accessories
+C0907,56,Male,Colombo,163710,49974,Clothing
+C0908,44,Female,Galle,85508,22400,Home Appliances
+C0909,42,Male,Kandy,40764,56343,Clothing
+C0910,51,Female,Kandy,189989,98376,Accessories
+C0911,44,Male,Colombo,67816,18907,Accessories
+C0912,25,Female,Negombo,138690,36669,Home Appliances
+C0913,30,Female,Colombo,59885,7505,Electronics
+C0914,29,Male,Kandy,90567,17389,Home Appliances
+C0915,64,Male,Jaffna,43644,20750,Electronics
+C0916,49,Male,Kandy,130164,41838,Home Appliances
+C0917,41,Female,Colombo,106572,11515,Clothing
+C0918,21,Female,Galle,38713,72197,Home Appliances
+C0919,29,Male,Kandy,120028,2653,Electronics
+C0920,67,Male,Galle,136119,33396,Electronics
+C0921,30,Female,Colombo,156613,0,Clothing
+C0922,48,Female,Kandy,104689,21789,Electronics
+C0923,65,Male,Kandy,146151,84692,Accessories
+C0924,30,Female,Colombo,194770,29545,Electronics
+C0925,33,Female,Kandy,23949,22936,Accessories
+C0926,55,Male,Galle,83724,2170,Electronics
+C0927,55,Female,Negombo,60630,49679,Electronics
+C0928,33,Male,Galle,43960,90908,Accessories
+C0929,66,Male,Colombo,113196,85485,Clothing
+C0930,62,Male,Jaffna,147885,31497,Accessories
+C0931,53,Female,Galle,70584,3798,Home Appliances
+C0932,40,Male,Kandy,30351,64609,Home Appliances
+C0933,53,Female,Negombo,148474,25874,Clothing
+C0934,52,Female,Kandy,142786,37087,Clothing
+C0935,22,Male,Galle,97508,35517,Accessories
+C0936,47,Male,Negombo,119363,97161,Clothing
+C0937,19,Female,Negombo,82596,43034,Electronics
+C0938,60,Female,Jaffna,157381,90551,Home Appliances
+C0939,67,Male,Negombo,94220,43283,Home Appliances
+C0940,59,Female,Colombo,45233,69576,Electronics
+C0941,20,Male,Jaffna,28198,0,Electronics
+C0942,49,Male,Colombo,28340,75843,Home Appliances
+C0943,60,Female,Negombo,183570,92922,Accessories
+C0944,21,Female,Jaffna,178847,95089,Electronics
+C0945,18,Male,Galle,40960,62349,Electronics
+C0946,41,Female,Kandy,35283,81862,Accessories
+C0947,51,Male,Colombo,99666,11215,Clothing
+C0948,51,Male,Colombo,80559,70685,Home Appliances
+C0949,30,Male,Negombo,192196,33605,Clothing
+C0950,53,Female,Colombo,187411,76571,Accessories
+C0951,61,Female,Galle,47289,22864,Clothing
+C0952,53,Female,Negombo,108476,87184,Clothing
+C0953,52,Female,Kandy,102615,73100,Accessories
+C0954,41,Female,Galle,104790,80745,Clothing
+C0955,54,Male,Galle,164241,98593,Accessories
+C0956,41,Female,Galle,124094,1025,Electronics
+C0957,36,Male,Negombo,55411,40562,Electronics
+C0958,37,Male,Jaffna,102550,3844,Accessories
+C0959,53,Male,Colombo,29892,61341,Accessories
+C0960,27,Male,Kandy,116228,77304,Clothing
+C0961,32,Female,Kandy,44092,0,Home Appliances
+C0962,54,Male,Colombo,105116,64246,Clothing
+C0963,49,Male,Negombo,188363,40373,Electronics
+C0964,64,Female,Colombo,34659,44829,Accessories
+C0965,70,Female,Galle,51598,30716,Electronics
+C0966,58,Female,Colombo,99897,69731,Electronics
+C0967,38,Male,Kandy,151701,92457,Clothing
+C0968,27,Male,Galle,136815,99676,Electronics
+C0969,32,Female,Kandy,123369,20400,Clothing
+C0970,39,Male,Galle,169799,98689,Electronics
+C0971,53,Female,Kandy,42302,53235,Home Appliances
+C0972,67,Male,Jaffna,146070,74308,Clothing
+C0973,49,Female,Negombo,71406,74553,Clothing
+C0974,33,Male,Kandy,132739,43390,Electronics
+C0975,25,Female,Galle,115752,46653,Clothing
+C0976,38,Female,Negombo,191811,4172,Accessories
+C0977,28,Female,Negombo,135922,82681,Clothing
+C0978,46,Male,Jaffna,72346,90831,Accessories
+C0979,27,Male,Colombo,34296,32856,Clothing
+C0980,70,Female,Colombo,109986,91937,Electronics
+C0981,37,Female,Galle,25963,0,Clothing
+C0982,65,Male,Jaffna,163241,69585,Accessories
+C0983,53,Female,Negombo,57053,92104,Electronics
+C0984,42,Male,Kandy,64648,8878,Accessories
+C0985,30,Female,Colombo,141886,86820,Electronics
+C0986,22,Female,Kandy,193796,87520,Accessories
+C0987,24,Male,Kandy,190239,51662,Clothing
+C0988,42,Male,Kandy,147051,79263,Electronics
+C0989,29,Male,Negombo,140058,74490,Electronics
+C0990,20,Male,Negombo,99934,44721,Home Appliances
+C0991,43,Male,Colombo,110906,90694,Accessories
+C0992,40,Female,Jaffna,151400,37159,Electronics
+C0993,58,Female,Galle,27724,73737,Accessories
+C0994,32,Male,Kandy,122982,87105,Clothing
+C0995,23,Female,Negombo,197732,81274,Clothing
+C0996,44,Male,Negombo,60042,56897,Accessories
+C0997,56,Female,Galle,162143,18271,Clothing
+C0998,59,Male,Negombo,161912,90659,Clothing
+C0999,26,Female,Negombo,55455,57369,Clothing
+C1000,59,Male,Kandy,37777,74051,Electronics
