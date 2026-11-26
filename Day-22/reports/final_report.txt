@@ -1,0 +1,22 @@
+
+========== CUSTOMER CHURN FINAL REPORT ==========
+
+Total Customers: 5050
+
+Clean Customers: 5000
+
+Removed Duplicates: 50
+
+Missing Values Before: 40
+
+Missing Values After: 0
+
+Churned Customers: 2311
+
+Churn Rate: 46.22%
+
+Average Monthly Charges: 5524.32
+
+Highest Churn Segment: Monthly
+
+=================================================
